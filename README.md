@@ -1,6 +1,8 @@
 Social Buttons for Bootstrap
 ============================
 
+[![Join the chat at https://gitter.im/culturejam/bootstrap-social](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/culturejam/bootstrap-social?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Social Buttons made in pure CSS based on
 [Bootstrap](http://twbs.github.io/bootstrap/) and
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)!
